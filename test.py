@@ -39,3 +39,6 @@ Enter vertex 4: D
 Enter neighbors of vertex D: B C
 Enter the start vertex for BFS: A
 """
+"""Output
+BFS traversal:
+A B C D """
